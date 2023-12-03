@@ -1,0 +1,21 @@
+.card-container {
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: solid 3px rgb(43, 101, 236);
+    /* border-radius: 15px; */
+
+
+}
+
+.card-container:hover {
+    border:none;
+    background-color: rgb(43, 101, 236,0.8);
+    color: white;
+}
+
+.card-img {
+    width: 240px;
+    height: 130px;
+    border: solid white 2px;
+}

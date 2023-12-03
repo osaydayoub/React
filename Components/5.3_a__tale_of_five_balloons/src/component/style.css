@@ -1,0 +1,29 @@
+.balloon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.child-container{
+    height: 100px;
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.children-container{
+    width: 550px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mother-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    height:400px ;
+    width: 600px;
+    background-color: rgb(97, 218, 251)
+}

@@ -1,0 +1,9 @@
+.quiz-container{
+    padding: 10px;
+    height: 180px;
+    width: 350px;
+    border: solid black 3px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

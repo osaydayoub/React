@@ -1,0 +1,36 @@
+.box1{
+    background-color: #5AF996;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    background-color: #72CDFA;
+    height: 200px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3{
+    background-color: #FFACBE;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.box4{
+    background-color:#ED8CDA;
+    height: 50px;
+    width: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

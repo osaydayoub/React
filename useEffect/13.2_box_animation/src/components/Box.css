@@ -1,0 +1,12 @@
+
+.box{
+    animation: 4s 1s  linear slidein  ;
+}
+ @keyframes slidein {
+    0%{
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(100vw);
+    }
+ }

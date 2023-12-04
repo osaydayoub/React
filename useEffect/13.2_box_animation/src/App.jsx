@@ -1,5 +1,5 @@
 import './App.css'
-import Box from './components/box'
+import Box from './components/Box.jsx'
 const boxes = [{ color: 'greenyellow', size: '100px' }, { color: 'red', size: '80px' }, { color: 'blue', size: '60px' }]
 
 function App() {

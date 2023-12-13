@@ -1,0 +1,29 @@
+.Header {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(12, 153, 140);
+}
+
+.btn-container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Header button {
+    padding: 10px;
+    background-color: transparent;
+    font-size: larger;
+    font-weight: bolder;
+    border: none;
+
+}
+.Header button:hover {
+    background-color: rgb(225,225,225,0.7);
+    border-radius: 5px;
+    cursor: pointer;
+}

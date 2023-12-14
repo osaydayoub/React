@@ -1,0 +1,10 @@
+.card-container{
+    border: solid rgb(229, 228, 228) 3px;
+    height: 150px;
+    width: 200px;
+
+}
+.card-container img{
+    height: 100px;
+    width: 100px;
+}
